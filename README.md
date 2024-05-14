@@ -1,2 +1,1 @@
-# fuzzrdp
-FreeRDP fuzzer
+Moved to https://github.com/fuzzrf/freerdp1
